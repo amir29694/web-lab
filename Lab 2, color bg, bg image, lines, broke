@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amir </title>
+</head> 
+<body style="background-color:rgb(226, 154, 19);">
+  <h1 style="color: army green;"><center> First Heading</h1></center>
+  <h2><center> Second Heading</h2></center>
+  <h3><center> Third Heading</h3></center>
+  <hr color="red" size="4" width="5000">
+  <p style="color: yellow;"><center><b><br> <u> Amir Imran student of iqra uni</u></br></b> Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Odit alias illo modi vitae mollitia repudiandae accusamus est laudantium magnam officia eveniet nihil necessitatibus dolor expedita, provident rem? Unde quisquam ea eius voluptatibus natus pariatur officia debitis nobis aut, architecto sapiente recusandae consequuntur explicabo ipsam, saepe, repellendus magnam provident maiores et? Ea culpa necessitatibus numquam odit fugiat. Explicabo architecto sed quam non quo eum soluta voluptatem nulla dignissimos, commodi iste maiores enim consequatur temporibus sunt ipsam quibusdam corporis. Aliquam quam blanditiis tenetur magni ex cum animi sit, architecto rem voluptate? Eveniet, exercitationem repudiandae ratione quasi odio voluptate facere? Architecto tenetur similique unde reprehenderit minima aliquid quam neque ipsam voluptatibus in quisquam repellat incidunt quo adipisci natus expedita maiores, repellendus vitae blanditiis! Odio alias reprehenderit error maxime quis magnam necessitatibus animi suscipit vitae! Doloribus, aliquam animi? Totam est maiores aliquam, distinctio ducimus saepe! Ut doloremque pariatur incidunt delectus, vel at exercitationem quidem officia tenetur dolores repudiandae minima dolorem illum officiis. Natus veniam illum voluptate voluptates libero reiciendis nesciunt laudantium accusamus assumenda saepe voluptatibus facere ea sit, eius odio tempore porro ullam deleniti pariatur delectus consequuntur alias praesentium rerum. Pariatur, natus nulla inventore cum, magni sed delectus provident rerum maiores in quia tempore.</center></p>
+  <br>
+  <hr color="red" size="4" width="5000">
+  <a href="www.google.com"> <center> Google</a></center>
+  <ul type="square">
+    <li>Punjab</li>
+    <li>KPK</li>
+    <li>Balochistan</li>
+    <li>Sindh</li>
+</ul>
+<ol type="1" start="4">
+  <li>Punjab</li>
+  <li>KPK</li>
+  <li>Balochisan</li>
+  <li>Sindh</li>
+</ol>
+<dl>
+  <dt>Pakistan</dt>
+  <dd>Islamabad</dd>
+</dl>
+
+  
+</body>
+</html>
